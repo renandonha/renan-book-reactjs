@@ -1,15 +1,11 @@
 {
   "name": "desafio-modulo1",
   "version": "1.0.0",
-  "engines": {
-    "node": "12.10.0"
-  },
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
